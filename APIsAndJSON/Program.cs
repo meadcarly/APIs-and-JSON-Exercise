@@ -11,7 +11,7 @@ namespace APIsAndJSON
             
             //_______________________________________________________________________________________________
             
-            OpenWeatherMapAPI.TemperatureFarmington();
+            OpenWeatherMapAPI.GetTempFromWebsite();
         }
     }
 }
